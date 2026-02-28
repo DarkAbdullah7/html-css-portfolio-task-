@@ -1,0 +1,29 @@
+body {
+    font-family: Arial;
+    background-color: #f4f4f4;
+    text-align: center;
+}
+
+h1 {
+    color: darkblue;
+}
+
+h2 {
+    color: darkred;
+}
+
+p {
+    font-size: 18px;
+}
+
+ul {
+    list-style-type: square;
+    display: inline-block;
+    text-align: left;
+}
+
+.footer {
+    margin-top: 30px;
+    font-size: 14px;
+    color: gray;
+}
